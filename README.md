@@ -67,4 +67,4 @@ If you encounter any issues:
 
 ## Contact
 
-If you encounter persistent issues, please contact the development team for assistance.
+If you encounter persistent issues, please contact the me.
